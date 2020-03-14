@@ -1,0 +1,33 @@
+name: stock-bot
+channels:
+  - defaults
+dependencies:
+  - certifi=2019.11.28=py36_0
+  - pip=20.0.2=py36_1
+  - python=3.6.10=h9f7ef89_0
+  - setuptools=46.0.0=py36_0
+  - sqlite=3.31.1=he774522_0
+  - vc=14.1=h0510ff6_4
+  - vs2015_runtime=14.16.27012=hf0eaf9b_1
+  - wheel=0.34.2=py36_0
+  - wincertstore=0.2=py36h7fe50ca_0
+  - pip:
+    - beautifulsoup4==4.8.2
+    - cffi==1.14.0
+    - chardet==3.0.4
+    - cryptography==2.8
+    - decorator==4.4.2
+    - django==2.2
+    - future==0.18.2
+    - idna==2.9
+    - pycparser==2.20
+    - python-telegram-bot==12.4.2
+    - pytz==2019.3
+    - requests==2.23.0
+    - six==1.14.0
+    - soupsieve==2.0
+    - sqlparse==0.3.1
+    - tornado==6.0.4
+    - urllib3==1.25.8
+prefix: C:\Users\user\Anaconda3\envs\stock-bot
+
